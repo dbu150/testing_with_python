@@ -5,8 +5,7 @@ age=int(input("what is your age"))
 #caculate the the birth_years
 birth_year=current_year - age
 print(f"hello  {name}")
-print(f"your favorite is {favorite_food}")
-print(f"your birth year is {birth_year}")
+print(f"your favorite is {favori_food}")
                        
 
 
