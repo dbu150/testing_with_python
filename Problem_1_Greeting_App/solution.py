@@ -1,4 +1,4 @@
-me =input("what  is your name?")
+name =input("what  is your name?")
 favorite_food=input("what is your  favorite food?")
 current_year=int(input("what is the current year?"))
 age=int(input("what is your age"))
